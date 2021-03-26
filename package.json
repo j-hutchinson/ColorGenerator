@@ -1,0 +1,20 @@
+{
+  "name": "random-color-palette-generator",
+  "version": "1.0.0",
+  "description": "Generate a random color",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "color",
+    "randomColor",
+    "colour"
+  ],
+  "author": "Jack Hutchinson",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
